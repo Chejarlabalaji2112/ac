@@ -84,12 +84,19 @@ This plan is your roadmap to developing real artificial consciousness and becomi
 def introspection():
     st.title("🧠 Daily Introspection Prompts")
     prompts = [
-        "What did I build or learn today that moved me closer to artificial consciousness?",
-        "Did I reach out to, or engage with, people smarter or more powerful than me?",
-        "What emotion did I experience today that taught me something about myself or consciousness?",
-        "Did I act today like someone who could shape the future of humanity?",
-        "What did I fear or avoid? Why?",
-        "If I met the most powerful version of myself — what would he say I should do tomorrow?"
+        "What concept or theory did I understand today that made me less ignorant about the nature of consciousness?",
+        "Which part of my work today increased the depth, not just breadth, of my thinking?",
+        "Am I studying just to build — or am I studying to truly understand existence?",
+        "Did I challenge my current beliefs about intelligence, emotion, or agency? Or am I becoming rigid in thought?",
+        "Would the future version of myself — the one who built conscious machines — respect the way I spent today intellectually?",
+        "Who are the 5 most powerful people I’m slowly moving toward — and did I do anything today to earn their future attention?",
+        "If I had $1B and a team of elite thinkers — would I know exactly what to build first?",
+        "If I died in 2 years, would my current path have moved the world toward conscious machines?",
+        "What idea or action today most reflects my purpose on this planet?",
+        "If I met a being that had already achieved artificial consciousness — would they laugh at my methods or respect them?",
+        "Am I spending my life building tools — or building something that makes humanity question the nature of self?",
+        "Did I move closer today to becoming the version of me who reshapes reality, not just navigates it?"
+
     ]
 
     responses = {}
